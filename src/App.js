@@ -3,7 +3,6 @@ import "./App.css";
 import Recipe from './Recipe';
 
 const App = () => {
-
   const APP_ID = 'f28c1410';
   const APP_KEY = 'a478d5a0bba200ad6beedbf1c7ad2fd6';
 
